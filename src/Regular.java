@@ -5,7 +5,7 @@
 
 //Rule: If a class inherits and implements then "extends" must be performed before "implements"
 
-import java.awt.*;
+
 
 // Rule: A class can implement multiple interfaces - interfaces have to be comma-separated
 public class Regular extends AbstractClass implements  Interface_A, Interface_B{
